@@ -1,8 +1,8 @@
-## 欢迎来到thg的博客主页
+## 欢迎来到thg的工作主页
 
-### 做过的demo实例链接
+### 做过的demo实例链接 
 
-1.openlayers连接arcgis server 的地图数据
+1.[openlayers连接arcgis server 的地图数据](https://github.com/tianhongguo/openlyersDemo)
 制作了一份面图层，然后通过arcgis server 发布该数据，再通过openlayers来访问、绘制和编辑这个数据图层上的数据，这个数据可以保存在oracle数据库，体系结构oracle+arcgis server+openlayers：
 * 选择
   * ![Alt Text](/img/20181212113947.png)
