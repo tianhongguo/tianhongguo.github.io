@@ -10,3 +10,5 @@
   * ![Alt Text](/img/20181212113824.png)
 * 编辑
   * ![Alt Text](/img/20181212114056.png)
+2.openlayers展示arcgis server的地图数据的属性
+*窗口展示属性
