@@ -14,3 +14,6 @@
 #### 2.openlayers展示arcgis server的地图数据的属性
 * 弹出窗口展示属性 
  * ![Alt Text](/img/20181214113011.png)
+#### 3.andorid地图绘制点标记和存储点到手机
+* 绘制
+ * ![Alt Text](/img/20181219183916.png)
