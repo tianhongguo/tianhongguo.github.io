@@ -13,4 +13,4 @@
   
 #### 2.openlayers展示arcgis server的地图数据的属性
 * 弹出窗口展示属性 
- * ![Alt Text](/img/20181213185751.png)
+ * ![Alt Text](/img/20181214113011.png)
