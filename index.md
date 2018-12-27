@@ -23,3 +23,6 @@
  * ![Alt Text](/img/20181221190228.png)
 * 数据属性
  * ![Alt Text](/img/20181224193151.png)
+* 最新版
+ * ![Alt Text](/img/20181227190400.png)
+ * ![Alt Text](/img/20181227190413.png)
