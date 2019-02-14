@@ -29,3 +29,5 @@
 * 使用ui框架
   * ![Alt Text](/img/20181229185312.png)
   * ![Alt Text](/img/20181229185321.png)
+* 调整后
+  * ![Alt Text](/img/20190102180524.png)
