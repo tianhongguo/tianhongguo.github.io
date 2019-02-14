@@ -1,4 +1,4 @@
-## 欢迎来到thg的工作主页
+## 欢迎来到田洪果的工作主页
 ### [记录的笔记](https://www.cnblogs.com/thg999/)
 ### 做过的demo实例链接 
 
@@ -31,3 +31,6 @@
   * ![Alt Text](/img/20181229185321.png)
 * 调整后
   * ![Alt Text](/img/20190102180524.png)
+#### 4.arcgis for js 练习
+* 弹出框展示属性信息
+ * ![Alt Text](/img/20190214173827.png)
